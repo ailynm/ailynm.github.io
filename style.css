@@ -1,0 +1,26 @@
+body{
+			background-image: url(https://images.freeimages.com/images/large-previews/647/snowy-mountain-1378865.jpg);
+		background-repeat: no-repeat;
+		background-size: 100%; 
+		}
+		p{
+			color: rgb(0, 255, 127);
+			font-size: 80px;
+		text-align: center;
+		text-shadow: 2px 2px #ff0000;
+		margin: 80px 240px;
+		}
+button {
+	 background-color: #4CAF50; /* Green */
+    color: white;
+    text-shadow: 2px 2px #00FF00;
+    text-align: center;
+    padding: 14px 120px;
+    font-size: 30px;
+    display: flex;
+    margin: 100px 350px;
+    cursor: pointer;
+}
+
+ 
+
